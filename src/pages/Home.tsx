@@ -25,7 +25,6 @@ export default function Home() {
         <h1>We build <mark>badass</mark> websites</h1>
         <p className="lead">Custom-built, template-free digital experiences engineered to convert — and designed to scale with you.</p>
         <a className="btn" href="#contact">Get a Quote →</a><a className="btn alt" href="#portfolio">View Case Studies</a>
-        <p className="note">Tip: drag any window by its title bar. Press ⌘K / Ctrl+K to jump anywhere.</p>
       </Window>
       <div className="marq" aria-hidden="true"><div>{ticker}{ticker}</div></div>
       <Window file="services.config.ts" tone="p">
